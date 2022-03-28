@@ -1,8 +1,8 @@
 ## Olá eu sou o Kelven Cardoso, um entusiasta de programação, tecnologia e jogos!
 <div align="center">
   <a href="https://github.com/kelven-cardoso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelven-cardoso&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelven-cardoso&langs_count=8&theme=merko"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=kelven-cardoso&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> 
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelven-cardoso&langs_count=8&theme=merko"/>
 </div>
 
 
