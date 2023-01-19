@@ -1,12 +1,17 @@
 ## Olá eu sou o Kelven Cardoso, um entusiasta de programação, tecnologia e jogos!
+
+
+
 <div align="center">
-  <a href="https://github.com/kelven-cardoso">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelven-cardoso&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> 
-      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelven-cardoso&langs_count=8&theme=merko"/>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelven-cardoso&show_icons=true&theme=merko)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelven-cardoso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 
   <div style="display: inline_block"><br>
+  <img align="center" alt="kelven-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="kelven-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="kelven-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="Kelven-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
