@@ -1,54 +1,65 @@
-# Olá, eu sou o Kelven Cardoso! 👋
-
-## 🚀 Analista de Dados | Business Intelligence | Python Developer
-
-Atualmente focado em transformar dados em decisões estratégicas. Tenho experiência sólida em construção de Dashboards, modelagem de dados e automação de processos.
-
-- 🔭 **Foco Principal:** Power BI (DAX, Power Query), SQL Server e Python.
-- 💼 **Projetos Recentes:** Automação de processos financeiros, Apps de gestão com Streamlit e Monitoramento de preços.
-- 🎯 **Objetivo:** Evoluir hard e soft skills rumo a posições de liderança técnica (CTO).
-
----
-
-### 🛠️ Tech Stack & Ferramentas
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powerbi,mssql,mysql,python,excel,vscode,git,html&theme=dark" />
+  <h1>Kelven Cardoso</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Business+Intelligence+%7C+Power+BI;Engenharia+de+Dados+%7C+SQL;Automa%C3%A7%C3%A3o+de+Processos+%7C+Python" alt="Typing SVG" />
   </a>
-</div>
 
----
+  <p><i>"Transformo dados brutos em decisões estratégicas e processos manuais em automação eficiente."</i></p>
 
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelven-cardoso&show_icons=true&theme=merko&include_all_commits=true&count_private=true" height="180em" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelven-cardoso&layout=compact&theme=merko" height="180em" alt="Languages" />
-</div>
+  <br>
 
----
-
-### 📫 Contatos e Redes
-<div align="center">
-  <a href="https://www.linkedin.com/in/kelvencardoso" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href = "mailto:kelven.pld@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/kelvencardoso">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/kelvencardoso" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="mailto:kelven.pld@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Fale%20Comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://steamcommunity.com/id/kyleyB/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
-  </a> 
 </div>
 
 <br>
+<br>
+
+## 🛠️ Meus Serviços e Soluções
+
+Atuo conectando tecnologia e negócios. Meus principais serviços incluem:
+
+| 📊 **Business Intelligence (BI)** | 🤖 **Automação & Python** | 🗄️ **Engenharia de Dados** |
+| :--- | :--- | :--- |
+| • Criação de Dashboards Power BI | • Web Apps de Gestão (Streamlit) | • Modelagem de Dados (Star Schema) |
+| • Fórmulas DAX Avançadas | • Automação de Processos (RPA) | • Consultas SQL Otimizadas |
+| • Tratamento ETL (Power Query) | • Integração de APIs | • Views e Procedures no SQL Server |
+
+### Business Intelligence & Dados
+<div style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</div>
+---
+
+## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kelven-cardoso/kelven-cardoso/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=powerbi,mssql,mysql,python,vscode,git,github,excel&theme=dark" alt="My Skills" />
+  </a>
 </div>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/kelven-cardoso/count.svg" />
-</p>
+---
+
+## 📈 Projetos em Destaque
+
+* **Dashboards Corporativos:** Centralização de indicadores financeiros e operacionais (DRE, Fluxo de Caixa).
+* **Automação de Preços:** Script Python para monitoramento e alerta de variações de mercado.
+* **Apps Internos:** Sistemas em Streamlit para input de dados e gestão de equipes offline/online.
+
+---
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kelven-cardoso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelven-cardoso&layout=compact&theme=radical"/>
+  </a>
+</div>
